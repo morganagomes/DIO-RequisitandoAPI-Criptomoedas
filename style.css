@@ -1,0 +1,22 @@
+body p {
+  color: purple;
+  margin-top: 12px;
+  padding: 8px;
+  margin-left: 20px;
+}
+
+.media-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+h6 {
+  margin-top: 12px;
+  margin-left: 20px;
+}
+
+.media {
+  background: #ffffff;
+}
